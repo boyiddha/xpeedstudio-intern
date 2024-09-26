@@ -2,7 +2,7 @@
 
 ### Tasks
 <ol>
-  <li style="color: green;font-size: 17px;"> Create a MySQL DB table with the following requirements and a frontend submission form for storing the data.</li>
+  <li> + Create a MySQL DB table with the following requirements and a frontend submission form for storing the data. @@</li>
 
   <h3>  Field/ column list: </h3>
   <ul>
