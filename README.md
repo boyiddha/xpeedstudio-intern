@@ -36,11 +36,15 @@
 # ScreenShots:
 ## Home Page
 <hr>
-![home](https://github.com/user-attachments/assets/3702032e-39bf-42ce-af30-0f9ac197fb95)
+
+![home](https://github.com/user-attachments/assets/b83c5b44-5f0e-4e8a-978f-7b65e378c597)
+
 
 
 <hr><hr>
 ## Report Page
 <hr>
-![report](https://github.com/user-attachments/assets/dda545e9-2d20-481d-acf2-c86041ea8c2f)
+
+![report](https://github.com/user-attachments/assets/8f43e7d1-1480-498d-a236-d7b8dd6d4f28)
+
 
