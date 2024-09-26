@@ -2,7 +2,12 @@
 
 ### Tasks
 <ol>
-  +<li>Create a MySQL DB table with the following requirements and a frontend submission form for storing the data.</li>@@
+  ```diff
++ text in green
+@@
+```
+  $${\color{green} Create a MySQL DB table with the following requirements and a frontend submission form for storing the data.
+}$$
 
   <h3>  Field/ column list: </h3>
   <ul>
