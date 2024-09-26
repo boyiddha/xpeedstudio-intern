@@ -4,9 +4,9 @@
 <ol>
   <li> Create a MySQL DB table with the following requirements and a frontend submission form for storing the data.</li>
 
-<ul>
 
-    <li> <h3>Field/ column list:</h3>  id (bigint 20) ai , amount (int 10) * , buyer (varchar 255) * , receipt_id (varchar 20) * , items (varchar 255) * , buyer_email (varchar 50) * ,buyer_ip (varchar 20) , note (text) * , city (varchar 20) * ,   phone (varchar 20) * , entry_at (date) , entry_by (init 10) </li>
+    <h3>Field/ column list:</h3>
+    <ul> <li> id (bigint 20) ai , amount (int 10) * , buyer (varchar 255) * , receipt_id (varchar 20) * , items (varchar 255) * , buyer_email (varchar 50) * ,buyer_ip (varchar 20) , note (text) * , city (varchar 20) * ,   phone (varchar 20) * , entry_at (date) , entry_by (init 10) </li>
 
     <li> * marked columns can be submitted through the mentioned frontend form. </li>
 <li>Buyer_ip should be the user’s browser ip and will be automatically filled up from the backend.</li>
