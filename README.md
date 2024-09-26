@@ -2,7 +2,7 @@
 
 ### Tasks
 <ol>
-  <li> Create a MySQL DB table with the following requirements and a frontend submission form for storing the data.</li>
+  <li style="color:green;font-size:17px;"> Create a MySQL DB table with the following requirements and a frontend submission form for storing the data.</li>
 
   <h3>  Field/ column list: </h3>
   <ul>
@@ -26,8 +26,8 @@
   </ul>
 
 
-  <li>Create a simple report page where users can see all the submissions and search it by user id. </li>
-  <li>The whole project must be implemented according to OOP format without any readymade PHP frameworks</li>
+  <li style="color:green;font-size:17px;">Create a simple report page where users can see all the submissions and search it by user id. </li>
+  <li style="color:green;font-size:17px;">The whole project must be implemented according to OOP format without any readymade PHP frameworks</li>
 </ol>
 
 
