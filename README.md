@@ -3,7 +3,7 @@
 ### Tasks
 <ol>
 
- <li> $\color{green}\large{\textsf{Create a MySQL DB table with the following requirements and a frontend submission form for storing the data.
+ <li> $\color{green}\large{\textbf{Create a MySQL DB table with the following requirements and a frontend submission form for storing the data.
 }}$ </li>
   
   <h3>  Field/ column list: </h3>
