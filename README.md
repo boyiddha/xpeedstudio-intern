@@ -34,3 +34,13 @@
 
 
 # ScreenShots:
+## Home Page
+<hr>
+![home](https://github.com/user-attachments/assets/3702032e-39bf-42ce-af30-0f9ac197fb95)
+
+
+<hr><hr>
+## Report Page
+<hr>
+![report](https://github.com/user-attachments/assets/dda545e9-2d20-481d-acf2-c86041ea8c2f)
+
