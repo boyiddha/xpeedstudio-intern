@@ -27,8 +27,8 @@
   <li>Entry_by: only numbers. </li>
   </ul>
 
-
-  <li> $\color{green}\large{\textbf{Create a simple report page where users can see all the submissions and search it by user id.}}$ </li>
+<be>
+  <li> $\color{green}\large{\textbf{Create a simple report page where users can see all the submissions and search it by user id.}}$ </li> <be>
 <li> $\color{green}\large{\textbf{The whole project must be implemented according to OOP format without any readymade PHP frameworks}}$ </li>
 </ol>
 
