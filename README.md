@@ -2,9 +2,10 @@
 
 ### Tasks
 <ol>
-  $${\color{green} Create\ a\ MySQL\ DB\ table\ with\ the\ following\ requirements\ and\ a\ frontend\ submission\ form\ for\ storing\ the\ data.
-}$$
 
+ <li> $\color{green}\large{\textsf{Create a MySQL DB table with the following requirements and a frontend submission form for storing the data.
+}}$ </li>
+  
   <h3>  Field/ column list: </h3>
   <ul>
   <li> id (bigint 20) ai , amount (int 10) * , buyer (varchar 255) * , receipt_id (varchar 20) * , items (varchar 255) * , buyer_email (varchar 50) * ,buyer_ip (varchar 20) , note     
